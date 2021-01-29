@@ -20,3 +20,11 @@ body > div[tpl="calendar_pc"] {
 .op-calendar-hover-almanac {
     display: none !important;
 }
+/* 取消左侧圆角 */
+.op-calendar-pc-left{
+    border-radius: 0 !important;
+}
+/* 取消右侧圆角 */
+.op-calendar-pc-right{
+    border-radius: 0 !important;
+}
